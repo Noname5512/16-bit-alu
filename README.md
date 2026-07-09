@@ -41,7 +41,7 @@ The ALU supports the following operations:
 ALU_16bit/
 ├── README.md
 ├── src/
-│   └── ALU_16bit.v
+│   └── alu.v
 ├── tb/
 │   └── alu_tb.v
 └── sim/
