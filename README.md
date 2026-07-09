@@ -55,7 +55,7 @@ ALU_16bit/
 ### Compile
 
 ```bash
-iverilog -o alu_sim src/ALU_16bit.v tb/alu_tb.v
+iverilog -o alu_sim src/alu.v tb/alu_tb.v
 ```
 
 ### Run

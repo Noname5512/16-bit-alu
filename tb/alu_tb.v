@@ -1,5 +1,4 @@
 `timescale 1ns/1ps
-`include "alu.v"
 module alu_tb ;
     reg [15:0] A, B;
     reg [3:0] ALU_Sel;
