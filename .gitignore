@@ -1,4 +1,10 @@
-sim
+# Simulation files
 *.vcd
-*.out
+*.vvp
+
+# GTKWave save files
+*.gtkw
+
+# Temporary/editor files
 *.log
+*.tmp
