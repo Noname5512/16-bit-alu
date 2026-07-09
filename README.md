@@ -72,6 +72,10 @@ gtkwave sim/ALU_16Bit.vcd
 
 ---
 
+## Waveform
+
+![GTKWave Simulation](sim/Waveform.png)
+
 ## Example Test Cases
 
 ### Addition Overflow
